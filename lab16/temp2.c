@@ -1,7 +1,7 @@
+#include "temp1.h"
 #include "temp2.h"
 
-static int a = 1;
-int b = 10;
+int b = 0xC3;
 
 void foo (void) {
   a = -3;
